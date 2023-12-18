@@ -8,4 +8,4 @@ Here is a list of my current top songs:
 + Yale by Ken Carson
 + Sorry Bout That by Yeat
 
-I have addedn some text from the remote repository on github here.
+I have added some text from the remote repository on github here.
